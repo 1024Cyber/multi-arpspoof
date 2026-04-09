@@ -68,7 +68,7 @@ cd multi-arpspoof
 # Run (root required)
 sudo python3 multi-arpspoof.py
 
-# Specify interface or gateway manually
+# OPTIONALLY : Specify interface or gateway manually
 sudo python3 multi-arpspoof.py -i eth0
 sudo python3 multi-arpspoof.py -i wlan0 -g 192.168.1.1
 ```
