@@ -48,6 +48,7 @@ That's two terminals, two commands, for **one device**. If you're testing multip
 - **Gateway auto-detection** — reads from `ip route`, no manual config needed
 - **Rescan option** — enter `0` at any point to re-scan the LAN
 
+NB: THIS VERSION WORKS ONLY WITH STANDALONE KALI-LINUX MACHINE NOT KALI-LINUX INSTALLED ON VM!!!
 ---
 
 ## Requirements
